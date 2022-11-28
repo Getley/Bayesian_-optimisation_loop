@@ -1,0 +1,11 @@
+﻿# Datasheet Template
+
+The function ‘generate_initial_data(n)’ will create all the initial data which the workbook needs, we output two X variables between zero and 1 plus one Y variable n times.  
+
+## Motivation
+
+We are using this data as an example, however similar processes could leverage Kaggle data or similar sources.
+
+ 
+
+
